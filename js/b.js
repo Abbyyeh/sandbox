@@ -1,1 +1,1 @@
-datas target catch fetch tags
+datas target catch fetch tags savePreferences
